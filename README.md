@@ -1,4 +1,4 @@
-This is the data structure course in NTU CSIE
+This is Data Structures and Algorithms 2016 course in NTU CSIE
 
 course website:
 
